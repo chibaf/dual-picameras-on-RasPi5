@@ -14,3 +14,8 @@ libcamera-hello –camera 1 -t 0
 
 4. Close the preview windows.
 
+# References
+
+How To Use Dual Cameras on the Raspberry Pi 5 | Tom's Hardware
+
+https://www.tomshardware.com/raspberry-pi/how-to-use-dual-cameras-on-the-raspberry-pi-5
